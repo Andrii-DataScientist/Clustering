@@ -1,0 +1,1 @@
+### All code with my conclusions and my descriptions of the problem is in jupyter notebook ###
